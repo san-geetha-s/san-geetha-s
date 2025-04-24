@@ -29,4 +29,4 @@ I treat plants like pets and believe design is how we connect feelings to techno
 ---
 
 Let’s connect:  
-[LinkedIn]((https://www.linkedin.com/in/sangeetha-s-43aa96221/)) | [Portfolio]() | [Email](sangeethaofficial05@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/sangeetha-s-43aa96221/) | [Portfolio]() | [Email](sangeethaofficial05@gmail.com)
