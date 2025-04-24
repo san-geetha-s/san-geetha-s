@@ -12,6 +12,7 @@ I love building clean, modern web applications and exploring the world of cybers
 React | Node.js | MongoDB | Express | Tailwind CSS | Git | Figma | JavaScript | HTML/CSS
 
 ## 🛠 Projects Worth Checking Out:
+- [Text-speech AI App](https://github.com/san-geetha-s/my-ai-app)
 - [Ecommerce Website](https://github.com/san-geetha-s/Ecommerce-website)  A multi-page e-commerce layout built with *Handlebars* and static files. Being refactored to restore broken links and update styling. 
 - [Netflix Clone](https://github.com/san-geetha-s/Netflix-clone) A simple personal website using *HTML/CSS*. Currently being redesigned to improve UI/UX and responsiveness. 
 - [Tinder Clone](https://github.com/san-geetha-s/tinder-clone) A swipe-card-based interface (in progress). Bug fixes underway to resolve layout display issues. 
