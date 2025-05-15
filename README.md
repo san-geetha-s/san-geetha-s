@@ -9,7 +9,7 @@ I love building clean, modern web applications and exploring the world of cybers
 - *Cybersecurity Awareness Quiz App* – A gamified app teaching people about safe online practices  
 
 ## 🚀 Technologies I Use:
-React | Node.js | MongoDB | Express | Tailwind CSS | Git | Figma | JavaScript | HTML/CSS
+React | Node.js | MongoDB | Express | Tailwind CSS | Git | JavaScript | HTML/CSS
 
 ## 🛠 Projects Worth Checking Out:
 - [Text-speech AI App](https://github.com/san-geetha-s/my-ai-app)
